@@ -2,7 +2,7 @@ import React from "react";
 
 const Challenge1 = () => {
 	return (
-		<div className="flex justify-center bg-gradient-to-br from-[#F9FAFB] to-[#D2D6DB] h-screen w-screen">
+		<div className="flex justify-center bg-gradient-to-br from-[#F9FAFB] to-[#D2D6DB] h-screen w-screen font-serif">
 			<div class="mt-[200px] bg-white flex flex-col rounded-lg w-[340px] h-[233px] p-[24px] gap-4 shadow-md">
 				<div class="flex flex-row gap-4">
 					<img
